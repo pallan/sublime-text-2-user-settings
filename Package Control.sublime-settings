@@ -1,16 +1,22 @@
 {
-	"auto_upgrade_last_run": 1349405235,
+	"auto_upgrade_last_run": 1353258022,
 	"installed_packages":
 	[
 		"Abacus",
+		"Alignment",
 		"All Autocomplete",
 		"CoffeeScript",
+		"ColorPick",
 		"CTags",
 		"DetectSyntax",
+		"Gist",
 		"Git",
+		"jQuery",
+		"Nettuts+ Fetch",
 		"Package Control",
 		"RSpec",
 		"Ruby 1.9 Hash Converter",
+		"RubyTest",
 		"Sass",
 		"SCSS",
 		"SideBarEnhancements",

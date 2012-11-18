@@ -46,7 +46,7 @@
     "tmp"
   ],
   "font_face": "Inconsolata-dz",
-  "font_size": 22,
+  "font_size": 12,
   "highlight_line": true,
   "highlight_modified_tabs": true,
   "ignored_packages":
@@ -63,7 +63,7 @@
   [
     80
   ],
-  "save_on_focus_lost": true,
+  "save_on_focus_lost": false,
   "tab_size": 2,
   "theme": "Soda Light.sublime-theme",
   "translate_tabs_to_spaces": true,
